@@ -1,6 +1,9 @@
-# mgcnn_alkaloid: Molecular Graph Convolutional Neural Networks for prediction of alkaloid biosynthesis pathways
+# mgcnn_alkaloid: Molecular Graph Convolutional Neural Networks for Prediction of Alkaloid Biosynthesis Bathways
 
-Molecular Graph Convolutional Neural Networks
+## Description
+Source code for our paper "Classification of alkaloids into starting substances
+on biosynthetic pathway using graph
+convolutional neural networks".
 ====
 
 ## Requirements
@@ -10,7 +13,7 @@ Pandas >= 0.22.0
 TensorFlow 1.6.0
 DeepChem 2.1.0
 
-## Description
+## Files
 - mgcnn_alkaloid.py: Training and evaluation of Molecular Graph Convolutional Neural Networks for alkaloid biosynthesis pathway prediction.
 - data/alkaloid_data.csv: Molecular data of alkaloids.
 
